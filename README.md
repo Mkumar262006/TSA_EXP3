@@ -13,6 +13,7 @@ type to fit the data.
 4. Store the results in an array
 5. Represent the result in graphical representation as given below.
 ### PROGRAM:
+```py
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -42,6 +43,7 @@ plt.ylabel('ACF Value')
 plt.grid(True)
 
 plt.show()
+```
 
 ### OUTPUT:
 
