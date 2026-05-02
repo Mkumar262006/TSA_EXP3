@@ -1,7 +1,7 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-Register No : 212223240082
-Name: Manoj kumar S
-Date:02-05-2026 
+### Register No : 212223240082
+### Name: Manoj kumar S
+### Date:02-05-2026 
 
 ### AIM:
 To Compute the AutoCorrelation Function (ACF) of the data for the first 35 lags to determine the model
